@@ -1,0 +1,53 @@
+
+
+.navbar{
+    background-color: black;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+h1{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    padding-right: 20px;
+}
+.navbar a{
+    float: left;
+    display: block;
+    color:white;
+    text-decoration: none;
+    padding: 14px 16px;
+    display: flex;
+    padding-top: 25px;
+}
+
+h2{
+    text-align: center;
+}
+
+.main{
+    margin-top: 80px;
+}
+
+#container{
+    width: 90%;
+    margin-left: auto;
+  margin-right: auto;
+}
+
+.stalker-pit{
+    float: left;
+    width: 20%;
+    padding-right: 10px;
+}
+
+
+.list{
+    display: inline-block;
+    text-align: right;
+}
